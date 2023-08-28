@@ -7,8 +7,8 @@ Author Dharmendra KUmar Yadav
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 
-const char* WIFI_NAME= "Airtel_Esp32glarus"; 
-const char* WIFI_PASSWORD = "Glarus#esp32";
+const char* WIFI_NAME= "************"; // replace With Your SSID
+const char* WIFI_PASSWORD = "**********"; //Replace With Your Password
 
 WiFiServer server(80);
 
